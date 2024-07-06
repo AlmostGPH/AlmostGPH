@@ -13,15 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-  .rounded-img {
-    border-radius: 15px;
-  }
-</style>
-
-<div align="center">
-  <img src="https://s2.loli.net/2024/07/06/CGoB1VO3DEaUYXL.jpg" alt="Profile Image" width="300" class="rounded-img">
-</div>
+<a href="https://smms.app/image/VPj2XqzFITxRugb" target="_blank"><img src="https://s2.loli.net/2024/07/06/VPj2XqzFITxRugb.png" ></a>
 
 <div align="center">
   <h1>Hi, I'm 𝟙𝕣𝟘𝕟𝕪</h1>
@@ -30,10 +22,9 @@ Here are some ideas to get you started:
 
 
 
+
 <div align="center">
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlmostGPH&theme=tokyonight" alt="GitHub Streak">
-    </a>
+  <h3>𝙼𝚢 𝚂𝚝𝚊ts</h3>
 </div>
 
 <div align="center">
@@ -80,4 +71,11 @@ Here are some ideas to get you started:
 <div align="center">
   <h3>Welcome to my blog!</h3>
   <h4><a href="https://almostgph.github.io">https://almostgph.github.io</a></h4>
+</div>
+
+
+<div align="center">
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlmostGPH&theme=tokyonight" alt="GitHub Streak">
+    </a>
 </div>
