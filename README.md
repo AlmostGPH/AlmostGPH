@@ -1,12 +1,19 @@
 <!-- AlmostGPH/AlmostGPH - Special GitHub Profile README -->
 
+<!-- 顶部全宽Banner图 -->
 <p align="center">
   <img src="https://s2.loli.net/2024/07/06/VPj2XqzFITxRugb.png" width="100%" alt="Profile Banner" />
 </p>
 
+<!-- 动态打字机效果介绍 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=36&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+1r0ny;Student+of+Cybersecurity+in+SDU;Always+Learning+and+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+1r0ny;Cybersecurity+Student+at+SDU;Exploring+the+Cyber+World+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
+
+<!-- 动态流动背景（模拟流光） -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="90%" alt="dynamic light effect" />
+</p>
 
 <div align="center">
   <a href="https://almostgph.github.io" target="_blank">
@@ -23,11 +30,10 @@
 
 ## 🚀 About Me
 
-- 🧠 I'm currently focused on **Cybersecurity, Systems Programming, and CTFs**.
-- 🔭 Building projects with **C/C++**, **Python**, and **Rust**.
-- 🌱 Actively learning **Web Security**, **Reverse Engineering**, and **Low-level Programming**.
-- 🧩 Always curious about **Operating Systems** and **Networking**.
-- 🎯 Long-term goal: **Red/Blue Team Cybersecurity Specialist**.
+- 🧠 Cybersecurity | System Programming | CTF Enthusiast
+- 🔭 Building with **C/C++**, **Rust**, **Python**
+- 🌱 Diving into **Red Teaming**, **Reverse Engineering**
+- 🎯 Aspiring to become a **Full-Stack Cyber Defender**
 
 <br/>
 
@@ -78,6 +84,7 @@
 
 ---
 
+<!-- 像素流动特效 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,100:000000&height=100&section=footer&animation=twinkling" />
 </p>
