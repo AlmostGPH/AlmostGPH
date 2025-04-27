@@ -65,3 +65,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Visit+AlmostGPH+Blog;Research+WP%2C+Notes%2C+and+More..." alt="Visit Blog" />
   </a>
 </div>
+
+<div align="center">
+  <picture>
+    <source srcset="https://github.com/AlmostGPH/AlmostGPH/blob/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
+    <source srcset="https://github.com/AlmostGPH/AlmostGPH/blob/output/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light)">
+    <img src="https://github.com/AlmostGPH/AlmostGPH/blob/output/github-contribution-grid-snake.svg" alt="Banner">
+  </picture>
+</div>
+
