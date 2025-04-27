@@ -1,7 +1,7 @@
 <!-- AlmostGPH/AlmostGPH - Special GitHub Profile README -->
 
 <p align="center">
-  <img src="https://s2.loli.net/2024/07/06/VPj2XqzFITxRugb.png" width="200" alt="Profile Banner" />
+  <img src="https://s2.loli.net/2024/07/06/VPj2XqzFITxRugb.png" width="100%" alt="Profile Banner" />
 </p>
 
 <h1 align="center">
