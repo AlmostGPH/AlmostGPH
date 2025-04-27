@@ -4,9 +4,10 @@
   <img src="https://s2.loli.net/2024/07/06/VPj2XqzFITxRugb.png" width="100%" alt="Cyberpunk Profile Banner" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+1r0ny%F0%9F%91%8B;Cyber+Security+Researcher+%E2%9A%99%EF%B8%8F;CTF+Player+%F0%9F%9B%A1;System+Hacker+%F0%9F%92%BB" alt="Cyber Typing SVG" />
-</h1>
+<h1 align="center">   
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+1r0ny%F0%9F%91%8B;Cyber+Security+Researcher+%E2%9A%99%EF%B8%8F;CTF+Player+%F0%9F%9B%A1;System+Hacker+%F0%9F%92%BB;Smart+Contract+Auditor+%F0%9F%92%BC" alt="Cyber Typing SVG" /> 
+</h1>  
+
 
 <div align="center">
   <a href="https://almostgph.github.io" target="_blank">
@@ -24,6 +25,7 @@
 - 🧠 I'm currently diving deep into **Cybersecurity, Systems Programming, and Capture The Flag (CTF) challenges**.
 - 🔭 Building projects with **C/C++**, **Python**, and **TypeScript**, with a focus on efficiency and security.
 - 🌱 Actively exploring **Miscellaneous Security Topics** and **Client-Side Development** to broaden my skillset.
+- 🛡️ Researching **Blockchain Security** and **Smart Contract Vulnerabilities** to strengthen decentralized technologies.
 - 🧩 Fascinated by **Operating Systems**, **Networking**, and the intricate inner workings of computer systems.
 - 🎯 Long-term vision: **To create real-world Artificial Intelligence systems inspired by sci-fi universes.**
 
