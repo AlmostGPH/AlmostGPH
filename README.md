@@ -67,8 +67,8 @@
 
 <div align="center">
   <!-- 使用自动适配主题的skill icons -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,linux,bash,docker,vim,neovim,github,aws,md,latex&perline=7" />
-  <img src="https://skillicons.dev/icons?i=vscode,windows,neovim,vim,github,obsidian,linux,arch,kali,photoshop&perline=6" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,linux,bash,docker,vim,neovim,md,latex&perline=12" />
+  <img src="https://skillicons.dev/icons?i=vscode,windows,neovim,vim,github,obsidian,linux,arch,kali,photoshop&perline=12" />
 
   ![Cyber Tools](https://img.shields.io/badge/-Ghidra-5865F2?style=flat&logo=java&logoColor=white)
   ![Cyber Tools](https://img.shields.io/badge/-IDA%20Pro-5865F2?style=flat&logo=hex&logoColor=white)
